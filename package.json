@@ -1,0 +1,18 @@
+{
+  "name": "mustacheplus",
+  "version": "0.0.1",
+  "description": "为express中间件封装了一下，最重要是添加了模板嵌套特性",
+  "main": "/lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xinyu198736/mustache-node-plus"
+  },
+  "keywords": [
+    "mustache"
+  ],
+  "dependencies": {
+    "mustache": "*"
+  },
+  "author": "yutou",
+  "license": "MIT"
+}
