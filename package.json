@@ -1,7 +1,7 @@
 {
   "name": "mustacheplus",
-  "version": "0.0.1",
-  "description": "为express中间件封装了一下，最重要是添加了模板嵌套特性",
+  "version": "0.0.2",
+  "description": "为express中间件封装了一下，最重要是添加了模板嵌套特性，norender标签，和常用格式化方法",
   "main": "/lib/index.js",
   "repository": {
     "type": "git",
